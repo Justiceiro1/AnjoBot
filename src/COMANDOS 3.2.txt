@@ -1,0 +1,9 @@
+git clone 
+
+cd 
+
+chmod +x badut.sh
+
+sh badut.sh
+
+senha: 
